@@ -1,0 +1,44 @@
+.row{
+font-size: 60px;
+font-weight: bold;
+color: blanchedalmond;
+
+
+}
+body{
+    background-color: saddlebrown;
+    margin: 0px;
+    padding: 0px;
+}
+.col-50{
+    width: 50%;
+}
+.col-A1{
+    background-color: green;
+}
+.col-B1{
+    background-color: red;
+}
+.col-33{
+    width: 33.33%;
+}
+/* .col{
+    float: left;
+} */
+.col-A{
+    background-color: chartreuse;
+
+}
+.col-B{
+    background-color: red;
+}
+.col-C{
+    background-color: royalblue;
+}
+.row-flex{
+    display: flex;
+    width: 100%;
+}
+.col-flex{
+    flex:1;
+}
